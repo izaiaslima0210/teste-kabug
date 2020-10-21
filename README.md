@@ -2,7 +2,7 @@
 
 ## Como executar o Projeto
 
-* importante ter o Ruby instalado versão 2.5 ou supoerior;
+* importante ter o Ruby instalado versão 2.5 ou superior;
 
 ### instalar o Bundler
 
